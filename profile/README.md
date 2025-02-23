@@ -21,9 +21,13 @@ The core of the project is based on three types of components:
 ## 🛠️ Key Features
 
 ✅ **Voice & text interaction** via a Progressive Web App (PWA).
+
 ✅ **Full modularity** with an architecture based on **[Docker](https://link.talkops.app/docker)**.
+
 ✅ **Extensibility** through **open-source extensions** available on GitHub.
+
 ✅ **Easy installation** and management via **Docker Compose**.
+
 ✅ **Self-hosted deployment** for **complete control** over data and privacy.
 
 ## 🌍 Contribution & Ecosystem
