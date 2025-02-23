@@ -2,7 +2,7 @@
 
 # 🗣️ TalkOps – A Modular Voice Interaction
 
-**TalkOps** is a community-driven project designed to enable seamless and modular interaction with applications through **voice** and **text**. Its architecture is built around a **real-time AI Agent**, enhanced by a system of **containerized extensions** using **[Docker](https://link.talkops.app/docker)**.
+**TalkOps** is a community-driven project designed to enable seamless and modular interaction with applications through **voice** and **text**.
 
 ## 🚀 Why TalkOps?
 
@@ -10,17 +10,16 @@ The goal of **TalkOps** is to provide an **open, flexible, and scalable solution
 
 ## 🏗️ Architecture
 
-The core of the project is based on three types of components:
+ The architecture is built around a **real-time AI Agent**, enhanced by a system of **containerized services** with **[Docker](https://link.talkops.app/docker)**:
 
 - **Agent**: The central interface managing communication between the interface and the modules.
-- **Modules**: Functionalities in the form of extensions, add-ons, or kernels.
 - **Extensions**: Integrate third-party applications (e.g., home automation assistant).
 - **Add-ons**: Provide optional features (e.g., voice activation with a keyword).
 - **Kernel**: Defines the API and AI configuration.
 
 ## 🛠️ Key Features
 
-- **Voice & text interaction** via a Progressive Web App (PWA).
+- **Voice & text interaction** via a [Progressive Web App](https://link.talkops.app/pwa) (PWA).
 - **Full modularity** with an architecture based on **[Docker](https://link.talkops.app/docker)**.
 - **Extensibility** through **open-source extensions** available on GitHub.
 - **Easy installation** and management via **Docker Compose**.
