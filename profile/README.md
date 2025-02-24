@@ -1,4 +1,4 @@
-![TalkOps Logo](https://pic.talkops.app/github-logo.svg)
+![TalkOps GitHub Logo](https://pic.talkops.app/talkops-github-logo.svg)
 
 # 🗣️ TalkOps – A Modular Voice Interaction
 
