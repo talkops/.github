@@ -19,7 +19,7 @@ The goal of **TalkOps** is to provide an **open, flexible, and scalable solution
 
 ## 🛠️ Key Features
 
-- **Voice & text interaction** via a [Progressive Web App](https://link.talkops.app/pwa) (PWA).
+- **Voice & text interaction** via a [Progressive Web App](https://link.talkops.app/pwa).
 - **Full modularity** with an architecture based on **[Docker](https://link.talkops.app/docker)**.
 - **Extensibility** through **open-source extensions** available on GitHub.
 - **Easy installation** and management via **Docker Compose**.
